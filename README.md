@@ -5,3 +5,5 @@ Satu file HTML mandiri: CSS dan JavaScript sudah inline di index.html. Library e
 Tema dibedakan dari tools.atur.in: mode gelap + aksen hijau emerald, sudut lebih tajam, tombol kotak (bukan pill), header gradien hijau.
 
 Deploy: repo GitHub baru, upload index.html + CNAME ke branch utama, Settings > Pages > branch utama / root. CNAME tools.cara.web.id sudah mengarah ke GitHub Pages.
+
+File SEO: favicon.svg, favicon.ico, favicon-192.png, favicon-512.png, apple-touch-icon.png, og-image.png, robots.txt, sitemap.xml, llms.txt.
