@@ -1,0 +1,14 @@
+# Tools Gambar
+
+Tools Gambar adalah kumpulan 22 tool gambar gratis yang jalan sepenuhnya di browser, tanpa upload dan tanpa daftar. Semua file diproses di perangkat pengguna dan tidak pernah dikirim ke server.
+
+## Tools
+
+- Kompres, Resize, Upscale, Convert, SVG ke PNG, Crop, Rotate, Watermark, Sensor
+- Hapus Background (AI di perangkat), HEIC ke JPG, EPS ke PNG (lewat Photopea), Edit di Photopea
+- Pas Foto, Ganti Background Pas Foto, QR Code, Gabung Gambar, Ukuran Sosmed
+- Hapus Metadata, Favicon, Tanda Tangan Transparan, Laporan Foto A4
+
+## Privasi
+
+Semua tool memproses file secara lokal di browser. Satu-satunya pengecualian adalah jalur Photopea (convert EPS dan edit lanjutan), yang memuat aplikasi Photopea dari photopea.com dan memproses file di browser.
